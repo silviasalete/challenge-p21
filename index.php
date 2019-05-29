@@ -29,6 +29,9 @@
                                    <li class="nav-item">
                                         <a class="nav-link text-white" href="enviar-email.php" tabindex="-1">E-MAIL</a>
                                    </li>
+                                   <li class="nav-item">
+                                        <a class="nav-link text-white" href="novo-excel.php" tabindex="-1">Novo Excel</a>
+                                   </li>
                          </ul>
                     </nav>
                </header>               
